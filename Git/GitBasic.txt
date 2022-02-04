@@ -1,0 +1,15 @@
+Git command line
+
+1. Clone a repo
+
+``` git clone <repo-url>
+
+2. Create a branch
+
+``` git checkout -b <branch name>
+
+3. Commit all changes
+
+``` git add .
+``` git commit -m<message you want to put>
+``` git push -u origin <remote branch name>
